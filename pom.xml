@@ -19,15 +19,15 @@
   <distributionManagement>
     <repository>
       <uniqueVersion>false</uniqueVersion>
-      <id>corp1</id>
-      <name>Corporate Repository</name>
+      <id>shopping-app-release</id>
+      <name>shopping-app-release</name>
       <url>http://172.31.47.33:8081/nexus/content/repositories/shopping-app-release/</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
-      <id>propSnap</id>
-      <name>Propellors Snapshots</name>
+      <id>shopping-app-snapshots</id>
+      <name>shopping-app-snapshots</name>
       <url>http://172.31.47.33:8081/nexus/content/repositories/shopping-app-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
