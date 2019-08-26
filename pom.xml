@@ -31,7 +31,6 @@
       <url>http://172.31.47.33:8081/nexus/content/repositories/shopping-app-snapshots/</url>
       <layout>legacy</layout>
     </snapshotRepository>
-    ...
   </distributionManagement>
 </project>
 
